@@ -14,8 +14,7 @@ pkg install Bash
 
 pkg install git
 
-git clone https://github.com/CyberCarboon/kang-spam
-
+git clone https://github.com/https://github.com/sahrilekiram/kang-spam
 ls
 
 cd kang-spam
